@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug 
+that was introduced?
+
+It was much faster than comparing the files because it only showed the lines that 
+were different between the two files. 
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+It is much easier to see how the program was changed each time rather than reading
+the entire code for each change.
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, 
+like Google docs does?
+
+Committing manually could potentially make the changes more clear to follow. A con
+of committing  manually is that if you don't remember to make the commit, you 
+could lose your work more easily.
+
+Why do you think some version control systems, like Git, allow saving multiple 
+files in one commit, while others like Google Docs, treat each file separately?
+
+Since programming can rely on multiple files when introducing a logical change,
+it makes sense that Git would allow for committing these files together. In 
+Google Docs, typically the user is just dealing with changing one file at a time,
+so there isn't a need to lump the files together.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log gives an overview of all of the changes made and documented by the user.
+Git diff allows to see exactly what was changed in the file, and uses the 
+information from git log to determine what two versions are being compared.
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+If you try something and it breaks, its very easy to go back to the existing 
+code and get the program working again.
+
+
+Now that you have your workspace set up, what do you want to try to use Git 
+for?
+
+I want to try to use it for a program that I wrote in python and have already 
+submitted to GitHub, but I didn't fully understand how Git works at the time.
