@@ -1,0 +1,7 @@
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Staging area is where the information about the files is stored that is to be 
+committed. The working directory contains all the files in the current directory 
+and the repository contains only files that have been committed. 
+It does add value in that it allows you to add multiple files to a single commit.
