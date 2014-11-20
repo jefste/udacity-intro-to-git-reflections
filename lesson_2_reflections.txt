@@ -25,3 +25,9 @@ program.
 How do the diagrams help you visualize the branch structure?
 
 The diagrams allow you to easily see which commits are in each branch.
+
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+The most up to date code now contains features of both branches. It is 
+represented as one branch because the program only has one branch now.
