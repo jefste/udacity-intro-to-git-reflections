@@ -5,3 +5,10 @@ Staging area is where the information about the files is stored that is to be
 committed. The working directory contains all the files in the current directory 
 and the repository contains only files that have been committed. 
 It does add value in that it allows you to add multiple files to a single commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+It insures that you have the appropriate number of files,  whether it be one 
+file or several files. You can also make sure that you don't have more than
+one file or one logical change if you can view what is in the staging area.
