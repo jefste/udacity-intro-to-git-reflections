@@ -31,3 +31,11 @@ diagram the way we do?
 
 The most up to date code now contains features of both branches. It is 
 represented as one branch because the program only has one branch now.
+
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+The advantage is that it compares the differences in code for you automatically, 
+but the disadvantage is that it doesn't know what the correct code is if the 
+two branches have similar changes.  
+
