@@ -12,3 +12,16 @@ change?
 It insures that you have the appropriate number of files,  whether it be one 
 file or several files. You can also make sure that you don't have more than
 one file or one logical change if you can view what is in the staging area.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+If you want to add a new feature that might break the current program, then you 
+would be able to revert back to the master branch. Keeping the master branch in
+tact would be important to keep the program still useable. Additionally, 
+using branches might make it clearer about what changes are being made to the 
+program.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams allow you to easily see which commits are in each branch.
