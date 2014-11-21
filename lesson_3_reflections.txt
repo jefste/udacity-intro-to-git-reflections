@@ -18,3 +18,11 @@ use one instead of another?
 Clone is a copy of a repo. A branch splits the code so that a new feature can 
 be added from a previous position in the project without altering the master
 code.  A fork is like a clone/branch of a project, but it is done on github.
+
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+If you have a local copy of the remote repo, you can compare your code to the 
+most recent changes. This insures that whatever code you are trying to implement
+will also work on any new code.
+
