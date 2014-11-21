@@ -26,3 +26,9 @@ If you have a local copy of the remote repo, you can compare your code to the
 most recent changes. This insures that whatever code you are trying to implement
 will also work on any new code.
 
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+It would be much harder to track changes without Git or GitHub. You might be 
+able to work faster if you didn't have to do all of the commands for adds, 
+commits and pushes with Git and GitHub.
