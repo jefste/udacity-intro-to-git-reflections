@@ -33,3 +33,12 @@ You could email a file back and forth, or use dropbox, or use Google Drive.
 It would be much harder to track changes without Git or GitHub. You might be 
 able to work faster if you didn't have to do all of the commands for adds, 
 commits and pushes with Git and GitHub.
+
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+If a new feature was being added to the code that fundamentally changed the 
+way the existing code worked, it might be better to create a branch to keep
+the code separate.  It would be easier to make the change in master, but 
+you might want to keep the code working at a production quality in the
+master branch. 
